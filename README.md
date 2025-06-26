@@ -14,7 +14,7 @@ This repository includes:
 
 Whether you're just starting out or want to sharpen your C++ skills, this repo has something for everyone!
 
----
+
 
 ## 📂 Folder Structure
 
@@ -28,3 +28,5 @@ Whether you're just starting out or want to sharpen your C++ skills, this repo h
 -├── File-Handling/ # Read/write files in C++
 -├── Projects/ # Small C++ projects
 -└── README.md # This file
+
+---
