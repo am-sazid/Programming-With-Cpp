@@ -8,6 +8,8 @@ int main() {
     x = 10;
     y = 10;
     // int x = 5 , y = 6 ;
+    x = 15; // change variable value
+    y = 20; // change variable value
     cout<<x*y; // Print Variable
     
 }

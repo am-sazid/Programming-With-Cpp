@@ -7,5 +7,4 @@ int main(){
     cout<<"Hello Sazid"<<endl<<"How are You"<<endl;
     cout<<"Hello World!" "\n";
     cout<<"Hello Bangladesh";
-
 }
