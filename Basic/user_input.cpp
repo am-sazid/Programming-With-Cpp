@@ -25,19 +25,33 @@
 // }
 
 
+// #include <bits/stdc++.h>
+// using namespace std;
+
+// int main() {
+// 	// your code goes here
+//     int a = 5;
+//     int b = 3;
+//     int result = a++ - --b + a--;
+//     cout<<result;
+// }
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
 int main() {
-	// your code goes here
-    int a = 5;
-    int b = 3;
-    int result = a++ - --b + a--;
-    cout<<result;
+    // Complete the code as per given instructions on the left
+    int a;
+    cin >> a;
+    int b;
+    cin >> b;
+    int sum = a + b;
+    int diff = a - b;
+    cout << "Sum is: " << sum << endl;
+    cout << "Difference is: "<< diff << endl;
 }
-
-
-
 
 
 
