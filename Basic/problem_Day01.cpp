@@ -24,14 +24,26 @@
 
 // Problem 03
 
-#include<iostream>
+// #include<iostream>
 
-using namespace std;
+// using namespace std;
 
-int main(){
-    float r = 15;
-    float v = (4 * 3.14 * r * r * r) / 3;
-    cout<<v<<endl;
+// int main(){
+//     float r = 15;
+//     float v = (4 * 3.14 * r * r * r) / 3;
+//     cout<<v<<endl;
 
-}
+// }
 
+// #include <iostream>
+
+// using namespace std;
+
+// int main() {
+//     int x ;
+//     cout<<"Enter Your Number : ";
+//     cin>>x ;
+//     float y = (float)x ;
+//     cout<< y / 2<<endl ;
+
+// }
