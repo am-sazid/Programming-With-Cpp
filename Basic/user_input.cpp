@@ -43,9 +43,8 @@ using namespace std;
 
 int main() {
     // Complete the code as per given instructions on the left
-    int a;
+    int a,b;
     cin >> a;
-    int b;
     cin >> b;
     int sum = a + b;
     int diff = a - b;
