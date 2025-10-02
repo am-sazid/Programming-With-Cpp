@@ -48,8 +48,10 @@ int main() {
     cin >> b;
     int sum = a + b;
     int diff = a - b;
+    int multi = a * b;
     cout << "Sum is: " << sum << endl;
     cout << "Difference is: "<< diff << endl;
+    cout << "Multiply is: "<< multi << endl;
 }
 
 
