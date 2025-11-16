@@ -1,8 +1,8 @@
-#include <iostream>
+#include<bits/stdc++.h>
 using namespace std;
 
 int main() {
 
-    cout<<"Hello world"<<endl;
+    cout<<"AM Sazid"<<endl;
     return 0;
 }
