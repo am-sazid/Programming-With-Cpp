@@ -29,6 +29,7 @@ int main()
         swap(a[l].s, a[r].s);
         l++;
         r--;
+        
     }
 
 
