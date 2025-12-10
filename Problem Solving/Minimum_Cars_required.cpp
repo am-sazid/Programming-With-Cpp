@@ -11,8 +11,8 @@ int main()
         int n;
         cin >>n;
 
-        double car = (double)n/4 ;
-        cout<< ceil(car) <<endl;
+        double car = ceil((double)n/4) ;
+        cout<< car <<endl;
     }
     
     return 0;
